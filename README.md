@@ -20,6 +20,10 @@ This project analyzes the connection between air pollution, hospital admissions,
 - `report/`: Word report, slides, and flowcharts
 - `figures/`: Output charts used in the report
 - `sql/`: Optional DB schema setup
+  
+### 🔗 Data Source Note
+Full air pollution data (~117,000+ records) was fetched live via the [EPA Ireland Open API](https://data.epa.ie/air/api/v1/measurements).  
+Due to size constraints, only a small sample (`pollution_sample.csv`) is included here. You can regenerate the full dataset using our API code in `Code.ipynb`.
 
 ## How to Run
 1. Clone the repo
