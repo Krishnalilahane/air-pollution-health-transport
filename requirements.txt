@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+altair
+streamlit
+sqlalchemy
+requests
+pymongo
+python-dotenv
+scikit-learn
+jupyterlab
