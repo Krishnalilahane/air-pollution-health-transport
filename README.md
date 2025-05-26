@@ -1,6 +1,6 @@
 # Exploring the Impact of Air Pollution on Public Health and Transport in Irish Cities
 
-This project analyzes the connection between air pollution, hospital admissions, and public transport usage in Dublin, Cork, and Limerick.
+This project analyzes the connection between air pollution, hospital admissions, and public transport usage in Cork, Dublin, and Limerick.
 
 ## Team Members
 - Krishnali Lahane (Lead Developer & Dashboard)
